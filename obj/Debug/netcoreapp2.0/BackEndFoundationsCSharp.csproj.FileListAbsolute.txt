@@ -1,0 +1,10 @@
+D:\School Projects\CoderCamps\Projects\BackEndFoundationsCSharp\bin\Debug\netcoreapp2.0\BackEndFoundationsCSharp.deps.json
+D:\School Projects\CoderCamps\Projects\BackEndFoundationsCSharp\bin\Debug\netcoreapp2.0\BackEndFoundationsCSharp.runtimeconfig.json
+D:\School Projects\CoderCamps\Projects\BackEndFoundationsCSharp\bin\Debug\netcoreapp2.0\BackEndFoundationsCSharp.runtimeconfig.dev.json
+D:\School Projects\CoderCamps\Projects\BackEndFoundationsCSharp\bin\Debug\netcoreapp2.0\BackEndFoundationsCSharp.dll
+D:\School Projects\CoderCamps\Projects\BackEndFoundationsCSharp\bin\Debug\netcoreapp2.0\BackEndFoundationsCSharp.pdb
+D:\School Projects\CoderCamps\Projects\BackEndFoundationsCSharp\obj\Debug\netcoreapp2.0\BackEndFoundationsCSharp.csproj.CoreCompileInputs.cache
+D:\School Projects\CoderCamps\Projects\BackEndFoundationsCSharp\obj\Debug\netcoreapp2.0\BackEndFoundationsCSharp.AssemblyInfoInputs.cache
+D:\School Projects\CoderCamps\Projects\BackEndFoundationsCSharp\obj\Debug\netcoreapp2.0\BackEndFoundationsCSharp.AssemblyInfo.cs
+D:\School Projects\CoderCamps\Projects\BackEndFoundationsCSharp\obj\Debug\netcoreapp2.0\BackEndFoundationsCSharp.dll
+D:\School Projects\CoderCamps\Projects\BackEndFoundationsCSharp\obj\Debug\netcoreapp2.0\BackEndFoundationsCSharp.pdb
