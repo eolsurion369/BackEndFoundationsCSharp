@@ -1,15 +1,19 @@
 using System;
-using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using System.Linq;
 using BackEndFoundationsCSharp.Models;
+using BackEndFoundationsCSharp.Repositories;
+using Microsoft.AspNetCore.Mvc;
 
 namespace BackEndFoundationsCSharp.Controllers {
-    [Route("api/Characters")]
+    [Route ("api/Characters")]
     public class CharactersContorller : Controller {
 
-        [HttpGet]
-        public Character Get() {
-            Character ch = new Character();
+        [HttpGet ("{firstName}")]
+        public Character Get (string firstName) {
+            List<Character> characters = new CharactersRepository ().GetCharacters ();
+            Character ch = characters.FirstOrDefault (c => c.FirstName == firstName);
             return ch;
-        }    
+        }
     }
 }
